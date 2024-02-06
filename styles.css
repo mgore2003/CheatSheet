@@ -1,0 +1,15 @@
+table{
+  color: forestgreen;
+  background-color: azure;
+  border: 3px solid chartreuse;
+}
+th{
+  border: 2px solid darkgreen;
+}
+td{
+  border: 2px solid darkseagreen;
+}
+.formatting{
+  font-family: monospace;
+  background-color: darkslategray;
+}
